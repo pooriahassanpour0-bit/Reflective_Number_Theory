@@ -1,4 +1,4 @@
-# ⚛️ ZRAP v7.3: The Reflective Authentication Protocol
+# ⚛️ ZRAP v1.0.0: The Reflective Authentication Protocol
 
 **A Formal Proof of the Riemann Hypothesis and the Foundation of Reflective Number Theory**
 
@@ -9,7 +9,7 @@
 
 ## 💡 Overview
 
-This project presents the **Z-Gap Reflective Authentication Protocol (ZRAP) v7.3**, a complete and formally verified proof in the **Lean 4 proof assistant** environment for the **Riemann Hypothesis (RH)**. The proof introduces and relies on the principles of **Reflective Number Theory**, fundamentally redefining the $\zeta(s)$ function through its reflection counterpart, $\zeta_R(s)$.
+This project presents the **Z-Gap Reflective Authentication Protocol (ZRAP) v1.0.0**, a complete and formally verified proof in the **Lean 4 proof assistant** environment for the **Riemann Hypothesis (RH)**. The proof introduces and relies on the principles of **Reflective Number Theory**, fundamentally redefining the $\zeta(s)$ function through its reflection counterpart, $\zeta_R(s)$.
 
 The key insight, termed **Structural Compulsion**, demonstrates that any non-trivial zero of the Reflective Zeta Function ($\zeta_R(s)$) in the critical strip ($0 < \text{Re}(s) < 1$) *must* lie on the critical line ($\text{Re}(s) = 1/2$) due to the inherent symmetry imposed by the Reflective Functional Equation.
 
