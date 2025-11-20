@@ -114,4 +114,3 @@ theorem ZRAP_Riemann_Hypothesis (s : ℂ) (hs_strip : 0 < s.re ∧ s.re < 1) (h_
   linarith [hs_strip.1, hs_strip.2]
 
 end Zrap
-#eval Nat.prime 7
