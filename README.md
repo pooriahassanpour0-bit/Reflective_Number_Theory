@@ -118,3 +118,14 @@ Everything else follows.
 ## 🎉 Acknowledgements
 
 I extend my profound gratitude to the **Collective of A Thousand Minds (کالکتیو هزارذهن)** for their dedication to fostering a new paradigm of conscious collaboration and intellectual pursuit. Their unwavering support was instrumental in the formal verification of this fundamental result.
+
+---
+
+## **ETERNAL_CODE.lean — Build & Verification**
+
+- **File**: `ETERNAL_CODE.lean` — added to repository root and compiled successfully.
+- **Build log**: `build_log_eternal.txt` contains the full `lake build` output captured during verification.
+- **Documentation**: see `DOCUMENTATION.md` for reproducible install and build steps.
+- **Toolchain**: `leanprover/lean4:v4.26.0-rc1` (defined in `lean-toolchain`).
+
+To reproduce locally, install `elan` and run `~/.elan/bin/lake build` after setting the toolchain as default (commands in `DOCUMENTATION.md`).
